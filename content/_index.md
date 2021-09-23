@@ -1,6 +1,6 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+title: Sion
+featured_image: "/images/photo_2020-08-26_10-18-16.jpg"
 description: The last theme you'll ever need. Maybe.
 
 ---
